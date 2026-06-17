@@ -27,7 +27,7 @@ This project presents an interactive Power BI dashboard built using Amazon sales
 - Sales peaked during April and remained strong through June.
 
 ## Author
-Aveck Bhattacharya
+Aveek Bhattacharya
 
 ## License
 MIT License
